@@ -1,8 +1,32 @@
-# React + Vite
+<h1 align="center">Link bio</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p aling='center'>
+  Refatoração de codigo do projeto DevLinks
+  <a href="https://github.com/WarlleyPLopes/minipage-bio"> De uma olhada na inspiração</a>
+</p>
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML e CSS
+- ReactJs e Styled component
+- Git e Github
+- Figma
+
+## 💻 Projeto
+
+O Link na bio é um agregador de links para usar como cartão de visitas online.
+
+
+```
+git clone git@github.com:WarlleyPLopes/link_bio.git
+
+npm i
+
+npm run dev
+```
+
+---
+
+Feito com ♥ by Warlley Lopes 👋 
